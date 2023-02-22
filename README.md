@@ -1,4 +1,4 @@
-# Generate Special Unitary and Orthogonal Matrices and Break Symmetry using the Higgs Mechanism
+# Generate Special Unitary Matrices and Break Symmetry using the Higgs Mechanism
 
 # Files
 SU_Generator.mlx:
