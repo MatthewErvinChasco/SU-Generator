@@ -12,7 +12,7 @@ symBreaker.mlx:
 This code takes a user-supplied SU(N) group and a specified number of U(1) groups and breaks the symmetry using the Higgs mechanism. It then returns the mass terms of the gauge bosons.
 
 SO_Generator.mlx:
-This code generates the generator matrices for the special orthogonal groups. The user specifies the order.
+This code generates the generator matrices for the special orthogonal groups SO(N). The user specifies the order.
 
 This code contains functions that use the MATLAB® Symbolic Math Toolbox™.
 The file Example.mlx is provided as a guide of use.
