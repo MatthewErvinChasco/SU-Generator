@@ -16,6 +16,7 @@ This code generates the generator matrices for the special orthogonal groups SO(
 
 *makeQuaternions.mlx*:
 This code generates unit quaternions in terms of the Dirac matrices.
+
 *quaternionProduct.mlx*:
 This code computes the direct product of two quaternions. This also gives the dot product and cross product between the 3D components of the vectors.
 
