@@ -14,6 +14,11 @@ This code takes a user-supplied SU(N) group and a specified number of U(1) group
 *SO_Generator.mlx*:
 This code generates the generator matrices for the special orthogonal groups SO(N). The user specifies the order and whether or not the signs between generators alternate.
 
+*makeQuaternions.mlx*:
+This code generates unit quaternions in terms of the Dirac matrices.
+*quaternionProduct.mlx*:
+This code computes the direct product of two quaternions. This also gives the dot product and cross product between the 3D components of the vectors.
+
 This code contains functions that use the MATLAB® Symbolic Math Toolbox™.
 The file *Example.mlx* is provided as a guide of use.
 
